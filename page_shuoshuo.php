@@ -200,7 +200,7 @@ the_post();
 					<li>
 						<time class="cbp_tmtime"><i class="fa fa-clock-o"></i>    <?php the_time('Y年n月j日G:i:s'); ?></time>
 						<div class="cbp_tmicon">
-							<img src="https://www.yxs2003.cn/wp-content/slider/me1234598.png" class="avatar avatar-48" width="48" height="48">
+							<img src="图像链接" class="avatar avatar-48" width="48" height="48">
 
 						</div>
 						<div class="cbp_tmlabel" >
